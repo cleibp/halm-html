@@ -1,7 +1,7 @@
-<h1 align="center"> 🚀 HALM | HTML </h1>
+<h1 align="center"> 🚀 HAML | HTML </h1>
 
 ## ✍️ Descrição
-Exemplificação do pré-processador HTML denominado HALM
+Exemplificação do pré-processador HTML denominado HAML
 
 
 ## 📥 Clone/Baixe
@@ -11,7 +11,7 @@ Exemplificação do pré-processador HTML denominado HALM
     ### Clonando
 
     ```bash
-    git clone git@github.com:cleibp/halm-html.git
+    git clone git@github.com:cleibp/haml-html.git
     ```
 1. Download:
     ### Download Manual
