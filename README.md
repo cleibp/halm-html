@@ -25,6 +25,7 @@ Exemplificação do pré-processador HTML denominado HALM
 ```sh
 .
 ├── README.md
+├── index.haml
 ├── index.html
 └── style.css
 ```
